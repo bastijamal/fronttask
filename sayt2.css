@@ -1,0 +1,11 @@
+.sekilli-yer{
+    background-image:url(./images/home-bg.jpg) ;
+    padding: 200px;
+}
+
+.post-preview a {
+    color: inherit; 
+    text-decoration: none; 
+}
+
+
